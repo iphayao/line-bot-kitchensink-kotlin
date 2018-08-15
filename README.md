@@ -1,2 +1,2 @@
-# simple-line-bot-spring-boot-kotlin
-Port simple-line-bot-spring-boot from Java to Kotlin
+# line-bot-kitchensink-kotlin
+Port simple-spring-boot-kitchensink to Kotlin
